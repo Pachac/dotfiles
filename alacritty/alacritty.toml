@@ -1,0 +1,8 @@
+[window]
+title = "Alacritty Terminal"
+opacity = 0.9
+padding = { x = 1, y = 1 }
+#startup_mode = "SimpleFullscreen"
+
+[font]
+size = 16
